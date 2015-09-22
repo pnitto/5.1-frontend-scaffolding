@@ -1,0 +1,26 @@
+{
+  "name": "5.1-frontend-scaffolding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnitto/5.1-frontend-scaffolding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnitto/5.1-frontend-scaffolding/issues"
+  },
+  "homepage": "https://github.com/pnitto/5.1-frontend-scaffolding#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.4",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-useref": "^1.3.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
